@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    height: 100svh;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+    border: 1px solid #d0d0d0;
+    box-shadow: 0 0 10px hsl(0, 0%, 82%);
+    width: max-content;
+}
+
+#title {
+    color: #369;
+}
+
+#wrong-text {
+    padding: 10px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+#text2 {
+    font-size: 14px;
+}
+
+#button {
+    margin-top: 15px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #369;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+    cursor: pointer;
+}

@@ -1,0 +1,34 @@
+export const englishUniCodes = [
+    { code: 1603, englishLetter: "a" },   // ا
+    { code: 1608, englishLetter: "b" },   // ب
+    { code: 1662, englishLetter: "p" },   // پ
+    { code: 1578, englishLetter: "t" },   // ت
+    { code: 1579, englishLetter: "s" },   // ث
+    { code: 1580, englishLetter: "j" },   // ج
+    { code: 1581, englishLetter: "ch" },  // چ
+    { code: 1582, englishLetter: "h" },   // ح
+    { code: 1583, englishLetter: "kh" },  // خ
+    { code: 1584, englishLetter: "d" },   // د
+    { code: 1585, englishLetter: "z" },   // ذ
+    { code: 1586, englishLetter: "r" },   // ر
+    { code: 1587, englishLetter: "zh" },  // ز
+    { code: 1588, englishLetter: "zh" },  // ژ
+    { code: 1589, englishLetter: "s" },   // س
+    { code: 1590, englishLetter: "sh" },  // ش
+    { code: 1591, englishLetter: "s" },   // ص
+    { code: 1592, englishLetter: "z" },   // ض
+    { code: 1593, englishLetter: "z" },   // ط
+    { code: 1594, englishLetter: "z" },   // ظ
+    { code: 1601, englishLetter: "a" },   // ع
+    { code: 1602, englishLetter: "gh" },  // غ
+    { code: 1604, englishLetter: "f" },   // ف
+    { code: 1605, englishLetter: "q" },   // ق
+    { code: 1705, englishLetter: "k" },   // ک
+    { code: 1711, englishLetter: "g" },   // گ
+    { code: 1603, englishLetter: "l" },   // ل
+    { code: 1604, englishLetter: "m" },   // م
+    { code: 1606, englishLetter: "n" },   // ن
+    { code: 44, englishLetter: "v" },     // و
+    { code: 1608, englishLetter: "h" },   // ه
+    { code: 1608, englishLetter: "y" },   // ی
+];
